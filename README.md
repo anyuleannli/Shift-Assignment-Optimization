@@ -12,4 +12,4 @@ Finally, each nurse can blackout a certain number of shifts, indicating times he
 
 Nurse Preferences: For each shift, a nurse may indicate a preference score of 0, 1, or 2. A score of 0 indicates that the shift is blacked-out, and he/she cannot be assigned to it. A score of 1 indicates that the time is not preferred, but the nurse is willing to work if needed. A score of 2 indicates a preferred time slot.
 
-Objective: Trevon would like to maximize the following objective, subject to satisfying all shift requirements scheduling constraints,
+Objective: Trevon would like to optimize the scheduling, subject to satisfying all shift requirements scheduling constraints.
